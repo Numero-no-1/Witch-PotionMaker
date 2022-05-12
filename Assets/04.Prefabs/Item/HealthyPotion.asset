@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56c930d1d308582409b33a7724c41798, type: 3}
+  m_Name: HealthyPotion
+  m_EditorClassIdentifier: 
+  itemName: "\uD68C\uBCF5\uBB3C\uC57D"
+  itemType: 0
+  itemImage: {fileID: 21300000, guid: b48353133bf0ed54ba968c4d1e761757, type: 3}
+  itemPrefab: {fileID: 2134876264519964800, guid: 17be39fc097af154288b5b028a63712c, type: 3}
+  weaponType: 
+  itemCost: 1
+  efts: []

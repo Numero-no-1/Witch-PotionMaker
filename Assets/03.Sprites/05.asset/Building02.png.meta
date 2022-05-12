@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 14003446d557f7844a2f7206be02a07a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7038005461015951553
+    second: Building02_0
+  - first:
+      213: -5101333033868632943
+    second: Building02_1
+  - first:
+      213: -7780806233587559511
+    second: Building02_2
+  - first:
+      213: -2808696574465112425
+    second: Building02_3
+  - first:
+      213: -6154681672786152858
+    second: Building02_4
+  - first:
+      213: -8804546147123318805
+    second: Building02_5
+  - first:
+      213: -5259460298614295377
+    second: Building02_6
+  - first:
+      213: -1182182908973594615
+    second: Building02_7
+  - first:
+      213: 4773108138195875634
+    second: Building02_8
+  - first:
+      213: -5015867616993126518
+    second: Building02_9
+  - first:
+      213: 5020820727778830852
+    second: Building02_10
+  - first:
+      213: 1438806525826250672
+    second: Building02_11
+  - first:
+      213: -8311303826333462266
+    second: Building02_12
+  - first:
+      213: -2099210617849844233
+    second: Building02_13
+  - first:
+      213: -4553249932794021644
+    second: Building02_14
+  - first:
+      213: 1030007791654448115
+    second: Building02_15
+  - first:
+      213: -5904272251640010225
+    second: Building02_16
+  - first:
+      213: 8968880469587143786
+    second: Building02_17
+  - first:
+      213: 12528882209224456
+    second: Building02_18
+  - first:
+      213: -7076105796046628589
+    second: Building02_19
+  - first:
+      213: 92859233259323437
+    second: Building02_20
+  - first:
+      213: -1676109283093790487
+    second: Building02_21
+  - first:
+      213: 7347443044057332083
+    second: Building02_22
+  - first:
+      213: 2425414350573061247
+    second: Building02_23
+  - first:
+      213: -976733252431155636
+    second: Building02_24
+  - first:
+      213: 5786469212935384026
+    second: Building02_25
+  - first:
+      213: 4352392364743120057
+    second: Building02_26
+  - first:
+      213: 7512119762926624825
+    second: Building02_27
+  - first:
+      213: -8593171904167819080
+    second: Building02_28
+  - first:
+      213: -4447833033545935460
+    second: Building02_29
+  - first:
+      213: -6042765639629335289
+    second: Building02_30
+  - first:
+      213: 9131114600090794591
+    second: Building02_31
+  - first:
+      213: 3893612757512844019
+    second: Building02_32
+  - first:
+      213: -3503370701988447911
+    second: Building02_33
+  - first:
+      213: 7632883713457362197
+    second: Building02_34
+  - first:
+      213: -5640404975417104325
+    second: Building02_35
+  - first:
+      213: -958520155336109610
+    second: Building02_36
+  - first:
+      213: 8140835071711793680
+    second: Building02_37
+  - first:
+      213: -1878199886287934522
+    second: Building02_38
+  - first:
+      213: 9041036727769177931
+    second: Building02_39
+  - first:
+      213: -1385588354061600056
+    second: Building02_40
+  - first:
+      213: -7672460194630929175
+    second: Building02_41
+  - first:
+      213: 3299920802455327842
+    second: Building02_42
+  - first:
+      213: -6670011636184100563
+    second: Building02_43
+  - first:
+      213: -4518365937793007736
+    second: Building02_44
+  - first:
+      213: -882658320898249477
+    second: Building02_45
+  - first:
+      213: 9078815678644866086
+    second: Building02_46
+  - first:
+      213: -4715623877694265327
+    second: Building02_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Building02_0
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 256
+        width: 1724
+        height: 1456
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c87d178da40ca160800000000000000
+      internalID: 7038005461015951553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building02_1
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1552
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c5b4b32ac6439b0800000000000000
+      internalID: -5101333033868632943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building02_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1535
+        width: 65
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a35edc74f5050490800000000000000
+      internalID: -7780806233587559511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building02_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1277
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796862db8518509d0800000000000000
+      internalID: -2808696574465112425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66279f3a0ad269aa0800000000000000
+      internalID: -6154681672786152858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building02_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1038
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef2e2c7de7ffc580800000000000000
+      internalID: -8804546147123318805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building02_6
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1041
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa433d669b4a207b0800000000000000
+      internalID: -5259460298614295377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building02_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908471368ea089fe0800000000000000
+      internalID: -1182182908973594615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building02_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237f0bb009c7d3240800000000000000
+      internalID: 4773108138195875634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building02_9
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 259
+        width: 332
+        height: 383
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a875db04afe046ab0800000000000000
+      internalID: -5015867616993126518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
